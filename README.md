@@ -6,20 +6,18 @@
 [![Discord Server][discord-shield]][discord-url]
 [![GitHub Forks][github-shield]][github-url]
 
-[SKlauncher][site-url] is a game launcher for
-the game Minecraft: Java Edition.
+[SKlauncher][site-url] es un lanzador del juego Minecraft: Java Edition.
 
-This repo hosts translation files for SKlauncher.
+Este repositorio contiene articulos traducidos de SKLauncher.
 
 ## Contributing ##
 
-Thank you for your interest in translating SKlauncher!
+¡Gracias por estar interesado en traducir SKlauncher!
 
-Please check out the [Contributions Guide][guide-url],
-which explains what to do step by step.
+Porfavor revisa las [Contributions Guide][guide-url],
+que explican que hacer paso a paso.
 
-You will be given credit for your precious help.
-Thank you in advance!
+Tendrás creditos por apoyarnos, asi que no dudes.
 
 <!-- URLs -->
 [guide-url]: <https://docs.skmedix.pl/category/contributions>
